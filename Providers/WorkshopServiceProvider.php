@@ -1,4 +1,4 @@
-<?php namespace Modules\Workshop\Providers;
+<?php namespace Workshop\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;

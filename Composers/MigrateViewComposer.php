@@ -1,4 +1,4 @@
-<?php namespace Modules\Workshop\Composers;
+<?php namespace Workshop\Composers;
 
 use Illuminate\Contracts\View\View;
 use Modules\Workshop\Manager\ModuleManager;

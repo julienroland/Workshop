@@ -1,4 +1,4 @@
-<?php namespace Modules\Workshop\Manager;
+<?php namespace Workshop\Manager;
 
 use Illuminate\Config\Repository as Config;
 use Pingpong\Modules\Module;
